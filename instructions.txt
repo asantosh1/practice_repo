@@ -1,0 +1,9 @@
+Multiple folders based on the usage. Also keep posting all the files.
+
+a) Instruction Videos
+b) Instruction Notes with corresponding sub-folders
+c) Practice_Java files
+d) Practice_C files
+e) Practice_Selenium
+f) CSS, XML, HTML etc.
+g) Support files
