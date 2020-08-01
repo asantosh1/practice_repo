@@ -7,3 +7,4 @@ d) Practice_C files
 e) Practice_Selenium
 f) CSS, XML, HTML etc.
 g) Support files
+h) Appium
